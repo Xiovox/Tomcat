@@ -16,9 +16,9 @@
 ##   For more information and documentation visit:
 ##     https://github.com/bitnami/bitnami-docker-apache
 
-FROM gcr.io/bitnami-containers/apache:2.4.23-r12
+FROM gcr.io/bitnami-containers/apache:2.4.25-r2
 
-ENV STACKSMITH_STACK_ID="auu3hhb" \
+ENV STACKSMITH_STACK_ID="buax7a0" \
     STACKSMITH_STACK_NAME="Apache for Xiovox/Tomcat" \
     STACKSMITH_STACK_PRIVATE="1" \
     BITNAMI_CONTAINER_ORIGIN="stacksmith"
